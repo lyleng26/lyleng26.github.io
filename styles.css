@@ -88,6 +88,7 @@ section{
 }
 .btn-box{
     position: relative;
+    margin-top: 0;
     display: flex;
     justify-content: space-between;
     width: 34.5rem;
@@ -135,6 +136,7 @@ section{
     width: 170px;
     display: flex;
     justify-content: space-between;
+    padding: 0 9%;
 }
 .home-sci a{
     position: relative;
